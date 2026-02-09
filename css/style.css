@@ -5,13 +5,13 @@
 @media (min-width: 768px) {
     .md-visible{
         visibility: visible;
-        color: deeppink;
+        color: rgb(255, 3, 137);
     }
 }
 
 @media (min-width: 1200px) {
     .md-visible{
         visibility: visible;
-        color: dodgerblue;
+        color: rgb(54, 155, 255);
     }
 }
